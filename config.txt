@@ -1,0 +1,3 @@
+usd:USD
+euro:EUR
+ruble:RUB
